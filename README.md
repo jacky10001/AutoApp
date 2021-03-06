@@ -11,7 +11,7 @@ Using  tkinter package to make program interface.
 - [x] Testing pyautogui api  
 - [x] Auto type A-Z  
 - [x] Make GUI (tkinter and threading)  
-- [] Custom event  
+- [x] Custom event  
 
 # Refer
 [PyAutoGUI’s documentation](https://pyautogui.readthedocs.io/en/latest/index.html)
