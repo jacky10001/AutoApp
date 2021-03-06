@@ -66,6 +66,7 @@ window = tk.Tk()
 window.attributes('-topmost', True)
 window.title('AutoApp')
 window.geometry('250x25')
+win.resizable(False,False)
 
 frame = tk.Frame(window, width=220, height=25)
 frame.pack()
