@@ -1,4 +1,4 @@
-# AutoApp
+# Keyboard Helper
 Learn automatic control mouse and keyboard via PyAutoGUI API.  
 Using  tkinter package to make program interface.   
 
